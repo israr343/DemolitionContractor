@@ -6,25 +6,6 @@ class Home extends Component {
 
 <div>
 
-{/* <div class="banner-carousel banner-carousel-1 mb-0 " id="home-section">
-  <div class="banner-carousel-item ">
-    <div class="">
-        <div class="container h-100">
-          <div class="row align-items-center h-100">
-              <div class="col-md-12 text-center">
-                <h2 class="slide-title" data-animation-in="slideInLeft">17 Years of excellence in</h2>
-                <h3 class="slide-sub-title" data-animation-in="slideInRight">Construction Industry</h3>
-                <p>
-                    <a href="services.html" class="slider btn btn-primary">Our Services</a>
-                    <a href="contact.html" class="slider btn btn-primary border">Contact Now</a>
-                </p>
-              </div>
-          </div>
-        </div>
-    </div>
-  </div>
-</div> */}
-
 
 <div class="banner-carousel banner-carousel-2 mb-0" id="home-section">
   <div class="banner-carousel-item">
@@ -45,7 +26,6 @@ class Home extends Component {
 </div>
 
 
-
 <section class="call-to-action-box no-padding">
   <div class="container">
     <div class="action-style-box">
@@ -57,7 +37,7 @@ class Home extends Component {
           </div>
           <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">
               <div class="call-to-action-btn">
-                <a class="btn btn-dark" href="#">Contact Us Now</a>
+                <a href="tel:(00974) 55490613" class="btn btn-dark">Contact Us Now</a>
               </div>
           </div>
         </div>
@@ -326,7 +306,7 @@ class Home extends Component {
   
 </section>
 
-<a href="https://api.whatsapp.com/send?phone=009745065 5310&text=Thank%20You%20For%20Choosing%20Us."
+<a href="https://api.whatsapp.com/send?phone=0097455490613&text=Thank%20You%20For%20Choosing%20Us."
  class="float" target="_blank">
 <i class="fab fa-whatsapp my-float"></i>
 </a>
@@ -542,7 +522,7 @@ class Home extends Component {
         <div class="col-md-4">
           <div class="subscribe-call-to-acton">
               <h3>Can We Help?</h3>
-              <h4>(+974) 50655310</h4>
+              <h4>(+974) 55490613</h4>
           </div>
         </div>
 
@@ -550,7 +530,7 @@ class Home extends Component {
           <div class="ts-newsletter row align-items-center">
               <div class="col-md-5 newsletter-introtext">
               </div>
-              <h3 class="box-slide-sub-title">Demolition Services Contractor In Qater</h3>
+              <h3 class="box-slide-sub-title">Demolition Contractor In Qater</h3>
               <div class="col-md-7 newsletter-form">
                 
               </div>

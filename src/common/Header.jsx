@@ -7,13 +7,13 @@ class Header extends Component {
           <div>
            
            <header id="header" class="header-one">
-  <div class="bg-white">
+  <div class="navbar-dark p-0">
     <div class="container">
       <div class="logo-area">
           <div class="row align-items-center">
             <div class="logo col-lg-3 text-center text-lg-left mb-3 mb-md-5 mb-lg-0">
                 <a class="d-block" href="index.html">
-                  <h3>Building Demolition</h3>
+                  <h3 class="text-white">Demolition Contractor</h3>
                 </a>
             </div>
   
@@ -22,21 +22,21 @@ class Header extends Component {
                   <li>
                     <div class="info-box">
                       <div class="info-box-content">
-                          <p class="info-box-title">Call Us</p>
-                          <p class="info-box-subtitle"><a href="tel:(00974) 5065 5310" target="_blank">009745065 5310</a></p>
+                          <p class="info-box-title text-white">Call Us</p>
+                          <p class="info-box-subtitle"><a href="tel:(00974) 55490613" target="_blank" class="text-white">+974-55490613</a></p>
                       </div>
                     </div>
                   </li>
                   <li>
                     <div class="info-box">
                       <div class="info-box-content">
-                          <p class="info-box-title">Email Us</p>
-                          <p class="info-box-subtitle"><a href="mailto:qaterbuildingdemolition@gmail.com">qaterbuildingdemolition@gmail.com</a></p>
+                          <p class="info-box-title text-white">Email Us</p>
+                          <p class="info-box-subtitle text-white"><a href="mailto:qaterbuildingdemolition@gmail.com" class="text-white">qaterbuildingdemolition@gmail.com</a></p>
                       </div>
                     </div>
                   </li>
                   <li class="header-get-a-quote">
-                    <a class="btn btn-success" href="https://api.whatsapp.com/send?phone=0097450655310&text=Thank%20You%20For%20Choosing%20Us.">
+                    <a class="btn btn-success" href="https://api.whatsapp.com/send?phone=0097455490613&text=Thank%20You%20For%20Choosing%20Us." target="_blank">
                     <i
                       class="fab fa-whatsapp"></i>
                      WhatsApp</a>
@@ -49,7 +49,7 @@ class Header extends Component {
     </div>
   </div>
 
-  <div class="site-navigation">
+  {/* <div class="site-navigation">
     <div class="container">
         <div class="row">
           <div class="col-lg-12">
@@ -65,19 +65,19 @@ class Header extends Component {
                       </li>
 
                       <li class="nav-item dropdown">
-                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">About </a>
+                          <a href="home" class="nav-link dropdown-toggle" data-toggle="dropdown">About </a>
                       </li>
               
                       <li class="nav-item dropdown">
-                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Teams </a>
+                          <a href="home" class="nav-link dropdown-toggle" data-toggle="dropdown">Teams </a>
                       </li>
               
                       <li class="nav-item dropdown">
-                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Services </a>
+                          <a href="home" class="nav-link dropdown-toggle" data-toggle="dropdown">Services </a>
                       </li>
               
                       <li class="nav-item dropdown">
-                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Projects</a>
+                          <a href="home" class="nav-link dropdown-toggle" data-toggle="dropdown">Projects</a>
                           
                       </li>
                     </ul>
@@ -87,16 +87,16 @@ class Header extends Component {
           
         </div>
         <div class="nav-search">
-          <a href="tel:(00974) 5065 5310"><b>(+974) 50655310</b> <span id=""><i class="fa fa-phone"></i></span></a>
+          <a href="tel:(00974) 55490613"><b>+974-55490613</b> <span id=""><i class="fa fa-phone"></i></span></a>
         </div>
         
 
     </div>
     
 
-  </div>
+  </div> */}
   
-</header>
+          </header>
             </div>
         )
     }
