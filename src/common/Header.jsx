@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import {BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 class Header extends Component {
     render(){
@@ -23,7 +22,7 @@ class Header extends Component {
                     <div class="info-box">
                       <div class="info-box-content">
                           <p class="info-box-title text-white">Call Us</p>
-                          <p class="info-box-subtitle"><a href="tel:(00974) 55490613" target="_blank" class="text-white">+974-55490613</a></p>
+                          <p class="info-box-subtitle"><a href="tel:(00974) 55490613"  class="text-white">+974-55490613</a></p>
                       </div>
                     </div>
                   </li>
