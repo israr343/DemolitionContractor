@@ -150,7 +150,7 @@ class Home extends Component {
                 <div class="card-header p-0 bg-transparent" id="headingThree">
                     <h2 class="mb-0">
                       <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                          Building Waste Removel
+                      Demolition Site clearance service
                       </button>
                     </h2>
                 </div>

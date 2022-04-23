@@ -30,7 +30,7 @@ class Header extends Component {
                     <div class="info-box">
                       <div class="info-box-content">
                           <p class="info-box-title text-white">Email Us</p>
-                          <p class="info-box-subtitle text-white"><a href="mailto:qaterbuildingdemolition@gmail.com" class="text-white">qaterbuildingdemolition@gmail.com</a></p>
+                          <p class="info-box-subtitle text-white"><a href="mailto:contractordemolition@gmail.com" class="text-white">contractordemolition@gmail.com</a></p>
                       </div>
                     </div>
                   </li>
