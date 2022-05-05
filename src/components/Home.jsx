@@ -340,7 +340,7 @@ class Home extends Component {
             <img loading="lazy" src="assets/images/original/safety.jpeg" class="img-fluid" alt="team-img" />
           </div>
           <div class="ts-team-content-classic">
-            <h3 class="ts-name">Engr Arshad Nadeem</h3>
+            <h3 class="ts-name"> Arshad Nadeem</h3>
             <p class="ts-designation">Safety Manager</p>
             <p class="ts-description">Safety Manager having 10+ Years Experience</p>
           </div>
@@ -357,8 +357,8 @@ class Home extends Component {
           </div>
           <div class="ts-team-content-classic">
             <h3 class="ts-name">Engr  Irshad</h3>
-            <p class="ts-designation">Chief Operating Manager</p>
-            <p class="ts-description">Chief Operating MAnager having 15+ Years Experience</p>
+            <p class="ts-designation"> Operating Manager</p>
+            <p class="ts-description">   Operating MAnager having 15+ Years Experience</p>
           </div>
         </div>
       </div>
