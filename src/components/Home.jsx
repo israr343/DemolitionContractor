@@ -358,7 +358,7 @@ class Home extends Component {
           <div class="ts-team-content-classic">
             <h3 class="ts-name">Engr  Irshad</h3>
             <p class="ts-designation"> Operating Manager</p>
-            <p class="ts-description">   Operating MAnager having 15+ Years Experience</p>
+            <p class="ts-description">   Operating Manager having 15+ Years Experience</p>
           </div>
         </div>
       </div>
