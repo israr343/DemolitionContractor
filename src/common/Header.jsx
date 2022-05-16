@@ -22,7 +22,7 @@ class Header extends Component {
                     <div class="info-box">
                       <div class="info-box-content">
                           <p class="info-box-title text-white">Call Us</p>
-                          <p class="info-box-subtitle"><a href="tel:(00974) 55490613"  class="text-white">+974-55490613</a></p>
+                          <p class="info-box-subtitle"><a href="tel:(00974) 55490613"  class="text-white">55490613</a></p>
                       </div>
                     </div>
                   </li>
