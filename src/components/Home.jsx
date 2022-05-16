@@ -368,7 +368,7 @@ class Home extends Component {
       <div class="col-lg-3 col-md-6 col-sm-6 mb-5">
         <div class="ts-team-wrapper">
           <div class="team-img-wrapper">
-            <img loading="lazy" src="assets/images/original/babo.jpeg" class="img-fluid" alt="team-img" />
+            <img loading="lazy" src="assets/images/original/babo.jpg" class="img-fluid" alt="team-img" />
           </div>
           <div class="ts-team-content-classic">
             <h3 class="ts-name">Hayat Khan</h3>
@@ -437,8 +437,8 @@ class Home extends Component {
 
           <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="assets/images/project-img/resthouse-demolish.jpeg" aria-label="project-img">
-                <img class="img-fluid" src="assets/images/project-img/resthouse-demolish.jpeg" alt="project-img" />
+              <a class="gallery-popup" href="assets/images/project-img/resthouse-demolish.jpg" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/project-img/resthouse-demolish.jpg" alt="project-img" />
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
@@ -578,7 +578,7 @@ class Home extends Component {
           <div class="latest-post">
               <div class="latest-post-media">
                 <a href="" class="latest-post-img">
-                    <img loading="lazy" class="img-fluid" src="assets/images/project-img/resthouse-demolish.jpeg" alt="img" />
+                    <img loading="lazy" class="img-fluid" src="assets/images/project-img/resthouse-demolish.jpg" alt="img" />
                 </a>
               </div>
               <div class="post-body">
