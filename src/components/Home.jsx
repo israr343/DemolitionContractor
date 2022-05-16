@@ -17,10 +17,10 @@ class Home extends Component {
               <p class="box-slide-description">Our mission is to perform for our customers the highest
                level of quality Demolition services at fair and market competitive prices</p>
               <p>
-                <a href="services.html" class="slider btn btn-primary">Contact Us Now</a>
+                <a href="tel:(00974) 55490613" class="slider btn btn-primary">Contact Us Now</a>
               </p>
           </div>
-        </div>
+        </div> 
     </div>
   </div>
 </div>
@@ -334,6 +334,19 @@ class Home extends Component {
 
       </div>
 
+      <div class="col-lg-3 col-md-6 col-sm-6 mb-5">
+        <div class="ts-team-wrapper">
+          <div class="team-img-wrapper">
+            <img loading="lazy" src="assets/images/original/coordinator.jpeg" class="img-fluid" alt="team-img" />
+          </div>
+          <div class="ts-team-content-classic">
+            <h3 class="ts-name">Engr  Irshad</h3>
+            <p class="ts-designation"> Operating Manager</p>
+            <p class="ts-description">   Operating Manager having 15+ Years Experience</p>
+          </div>
+        </div>
+      </div>
+
       <div class="col-lg-3 col-sm-6 mb-5">
         <div class="ts-team-wrapper">
           <div class="team-img-wrapper">
@@ -350,18 +363,7 @@ class Home extends Component {
     {/* </div> */}
 
     {/* <div class="row"> */}
-      <div class="col-lg-3 col-md-6 col-sm-6 mb-5">
-        <div class="ts-team-wrapper">
-          <div class="team-img-wrapper">
-            <img loading="lazy" src="assets/images/original/coordinator.jpeg" class="img-fluid" alt="team-img" />
-          </div>
-          <div class="ts-team-content-classic">
-            <h3 class="ts-name">Engr  Irshad</h3>
-            <p class="ts-designation"> Operating Manager</p>
-            <p class="ts-description">   Operating Manager having 15+ Years Experience</p>
-          </div>
-        </div>
-      </div>
+      
 
       <div class="col-lg-3 col-md-6 col-sm-6 mb-5">
         <div class="ts-team-wrapper">
