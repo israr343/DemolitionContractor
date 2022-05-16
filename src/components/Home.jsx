@@ -337,9 +337,9 @@ class Home extends Component {
       <div class="col-lg-3 col-md-6 col-sm-6 mb-5">
         <div class="ts-team-wrapper">
           <div class="team-img-wrapper">
-            <img loading="lazy" src="assets/images/original/coordinator.jpg" class="img-fluid" alt="team-img" />
+            <img loading="lazy" src="assets/images/original/Coordinator.jpg" class="img-fluid" alt="team-img" />
           </div>
-          <div class="ts-team-content-classic">
+          <div class="ts-team-content-classic ">
             <h3 class="ts-name">Engr  Irshad</h3>
             <p class="ts-designation"> Operating Manager</p>
             <p class="ts-description">   Operating Manager having 15+ Years Experience</p>
