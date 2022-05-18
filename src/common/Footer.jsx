@@ -22,7 +22,7 @@ class Footer extends Component {
                 </li>
                 <li><a href="" aria-label="Instagram"><i
                       class="fab fa-instagram"></i></a></li>
-                <li><a href="" aria-label="Github"><i class="fab fa-whatsapp"></i></a></li>
+                <li><a  href="https://api.whatsapp.com/send?phone=+97455490613&text=%20%2020%" aria-label="Github"><i class="fab fa-whatsapp"></i></a></li>
               </ul>
             </div>
           </div>

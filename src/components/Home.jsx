@@ -306,7 +306,7 @@ class Home extends Component {
   
 </section>
 
-<a href="https://api.whatsapp.com/send?phone=+97455490613&text=Thank%20You%20For%20Choosing%20Us."
+<a href="https://api.whatsapp.com/send?phone=+97455490613&text=%20%20%20%20"
  class="float" target="_blank">
 <i class="fab fa-whatsapp my-float"></i>
 </a>
@@ -327,7 +327,7 @@ class Home extends Component {
           </div>
           <div class="ts-team-content-classic">
             <h3 class="ts-name">Engr Nasir Khan</h3>
-            <p class="ts-designation">Chief Operating Officer/Manager</p>
+            <p class="ts-designation">Chief Operating Engineer/Manager</p>
             <p class="ts-description">Civil Engineer having 7+ years Experience.</p>
           </div>
         </div>
@@ -532,7 +532,7 @@ class Home extends Component {
           <div class="ts-newsletter row align-items-center">
               <div class="col-md-5 newsletter-introtext">
               </div>
-              <h3 class="box-slide-sub-title">Demolition Contractor In Qater</h3>
+              <h3 class="box-slide-sub-title">Demolition Contractor In Qatar</h3>
               <div class="col-md-7 newsletter-form">
                 
               </div>
