@@ -13,7 +13,7 @@ class Home extends Component {
         <div class="box-slider-content">
           <div class="box-slider-text">
               <h2 class="box-slide-title">Over 20 Years Of Excellence In</h2>
-              <h3 class="box-slide-sub-title">Demolition Industry</h3>
+              <h1 class="box-slide-sub-title">Building Demolition</h1>
               <p class="box-slide-description">Our mission is to perform for our customers the highest
                level of quality Demolition services at fair and market competitive prices</p>
               <p>
@@ -175,7 +175,7 @@ class Home extends Component {
         <div class="row">
           <div class="col-md-3 col-sm-6 ts-facts">
               <div class="ts-facts-img">
-                <img loading="lazy" src="assets/images/icon-image/fact1.png" alt="facts-img" />
+                <img loading="lazy" placeholder='project completed' src="assets/images/icon-image/fact1.png" alt="facts-img" />
               </div>
               <div class="ts-facts-content">
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="100">0</span></h2>
@@ -185,7 +185,7 @@ class Home extends Component {
 
           <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-sm-0">
               <div class="ts-facts-img">
-                <img loading="lazy" src="assets/images/icon-image/fact2.png" alt="facts-img" />
+                <img loading="lazy" placeholder='staff members' src="assets/images/icon-image/fact2.png" alt="facts-img" />
               </div>
               <div class="ts-facts-content">
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="50">0</span></h2>
@@ -195,7 +195,7 @@ class Home extends Component {
 
           <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-md-0">
               <div class="ts-facts-img">
-                <img loading="lazy" src="assets/images/icon-image/fact3.png" alt="facts-img" />
+                <img loading="lazy" placeholder='work hour' src="assets/images/icon-image/fact3.png" alt="facts-img" />
               </div>
               <div class="ts-facts-content">
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="1000">0</span></h2>
@@ -205,7 +205,7 @@ class Home extends Component {
 
           <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-md-0">
               <div class="ts-facts-img">
-                <img loading="lazy" src="assets/images/icon-image/fact4.png" alt="facts-img" />
+                <img loading="lazy" placeholder='demolition experience' src="assets/images/icon-image/fact4.png" alt="facts-img" />
               </div>
               <div class="ts-facts-content">
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="4">0</span></h2>
@@ -232,7 +232,7 @@ class Home extends Component {
         <div class="col-lg-4">
           <div class="ts-service-box d-flex">
               <div class="ts-service-box-img">
-                <img loading="lazy" src="assets/images/icon-image/service-icon1.png" alt="service-icon" />
+                <img loading="lazy" placeholder='building demolition' src="assets/images/icon-image/service-icon1.png" alt="service-icon" />
               </div>
               <div class="ts-service-box-info">
                 <h3 class="service-box-title"><a href="#">Building Demolition </a></h3>
@@ -242,7 +242,7 @@ class Home extends Component {
 
           <div class="ts-service-box d-flex">
               <div class="ts-service-box-img">
-                <img loading="lazy" src="assets/images/icon-image/service-icon2.png" alt="service-icon" />
+                <img loading="lazy" placeholder='structure demolition' src="assets/images/icon-image/service-icon2.png" alt="service-icon" />
               </div>
               <div class="ts-service-box-info">
                 <h3 class="service-box-title"><a href="#">Structure Demolition</a></h3>
@@ -252,7 +252,7 @@ class Home extends Component {
           </div>
           <div class="ts-service-box d-flex">
               <div class="ts-service-box-img">
-                <img loading="lazy" src="assets/images/icon-image/service-icon3.png"  alt="service-icon" />
+                <img loading="lazy" placeholder='interior demolition' src="assets/images/icon-image/service-icon3.png"  alt="service-icon" />
               </div>
               <div class="ts-service-box-info">
                 <h3 class="service-box-title"><a href="#">Interior Soft Demolition</a></h3>
@@ -263,13 +263,13 @@ class Home extends Component {
         </div>
 
         <div class="col-lg-4 text-center">
-          <img loading="lazy" class="img-fluid" src="asfsets/images/services/service-center.jpg" alt="" />
+          <img loading="lazy" placeholder='demolition' class="img-fluid" src="asfsets/images/services/service-center.jpg" alt="" />
         </div>
 
         <div class="col-lg-4 mt-5 mt-lg-0 mb-4 mb-lg-0">
           <div class="ts-service-box d-flex">
               <div class="ts-service-box-img">
-                <img loading="lazy" src="assets/images/icon-image/service-icon4.png" alt="service-icon" />
+                <img loading="lazy" placeholder='concrete demolition' src="assets/images/icon-image/service-icon4.png" alt="service-icon" />
               </div>
               <div class="ts-service-box-info">
                 <h3 class="service-box-title"><a href="#">Selective Concrete Demolition</a></h3>
@@ -280,7 +280,7 @@ class Home extends Component {
 
           <div class="ts-service-box d-flex">
               <div class="ts-service-box-img">
-                <img loading="lazy" src="assets/images/icon-image/service-icon5.png" alt="service-icon" />
+                <img loading="lazy" placeholder='waste disposal' src="assets/images/icon-image/service-icon5.png" alt="service-icon" />
               </div>
               <div class="ts-service-box-info">
                 <h3 class="service-box-title"><a href="#"> Building waste disposal</a></h3>
@@ -291,7 +291,7 @@ class Home extends Component {
 
           <div class="ts-service-box d-flex">
               <div class="ts-service-box-img">
-                <img loading="lazy" src="assets/images/icon-image/service-icon6.png" alt="service-icon" />
+                <img loading="lazy" placeholder='safety management' src="assets/images/icon-image/service-icon6.png" alt="service-icon" />
               </div>
               <div class="ts-service-box-info">
                 <h3 class="service-box-title"><a href="#">Safety Management</a></h3>
@@ -323,7 +323,7 @@ class Home extends Component {
       <div class="col-lg-3 col-sm-6 mb-5">
         <div class="ts-team-wrapper">
           <div class="team-img-wrapper">
-            <img loading="lazy" src="img-fluid" src="assets/images/original/NasirKhan.png" class="img-fluid" alt="team-img" />
+            <img loading="lazy" placeholder='cheif operating engineer' src="img-fluid" src="assets/images/original/NasirKhan.png" class="img-fluid" alt="team-img" />
           </div>
           <div class="ts-team-content-classic">
             <h3 class="ts-name">Engr Nasir Khan</h3>
@@ -337,7 +337,7 @@ class Home extends Component {
       <div class="col-lg-3 col-md-6 col-sm-6 mb-5">
         <div class="ts-team-wrapper">
           <div class="team-img-wrapper">
-            <img loading="lazy" src="assets/images/original/Coordinator.jpg" class="img-fluid" alt="team-img" />
+            <img loading="lazy" placeholder='operating manager' src="assets/images/original/coordinator.jpg" class="img-fluid" alt="team-img" />
           </div>
           <div class="ts-team-content-classic ">
             <h3 class="ts-name">Engr  Irshad</h3>
@@ -350,7 +350,7 @@ class Home extends Component {
       <div class="col-lg-3 col-sm-6 mb-5">
         <div class="ts-team-wrapper">
           <div class="team-img-wrapper">
-            <img loading="lazy" src="assets/images/original/safety.jpg" class="img-fluid" alt="team-img" />
+            <img loading="lazy" placeholder='safety manager' src="assets/images/original/safety.jpg" class="img-fluid" alt="team-img" />
           </div>
           <div class="ts-team-content-classic">
             <h3 class="ts-name"> Arshad Nadeem</h3>
@@ -368,7 +368,7 @@ class Home extends Component {
       <div class="col-lg-3 col-md-6 col-sm-6 mb-5">
         <div class="ts-team-wrapper">
           <div class="team-img-wrapper">
-            <img loading="lazy" src="assets/images/original/babo.jpg" class="img-fluid" alt="team-img" />
+            <img loading="lazy" placeholder='supervisor' src="assets/images/original/babo.jpg" class="img-fluid" alt="team-img" />
           </div>
           <div class="ts-team-content-classic">
             <h3 class="ts-name">Hayat Khan</h3>
@@ -403,8 +403,8 @@ class Home extends Component {
 
           <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;government&quot;,&quot;healthcare&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="assets/images/project-img/house-demolish.jpg" aria-label="project-img">
-                <img class="img-fluid" src="assets/images/project-img/house-demolish.jpg" alt="project-img" />
+              <a class="gallery-popup" href="assets/images/project-img/buildingdemolish.jpg" aria-label="project-img">
+                <img class="img-fluid" placeholder='pump demolition' src="assets/images/project-img/buildingdemolish.jpg" alt="project-img" />
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
@@ -421,7 +421,7 @@ class Home extends Component {
           <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;healthcare&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="assets/images/project-img/shiwal-demolition.jpg" aria-label="project-img" >
-                <img class="img-fluid" src="assets/images/project-img/shiwal-demolition.jpg" alt="project-img" />
+                <img class="img-fluid" placeholder='building demolish' src="assets/images/project-img/shiwal-demolition.jpg" alt="project-img" />
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
@@ -437,8 +437,8 @@ class Home extends Component {
 
           <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="assets/images/project-img/resthouse-demolish.jpg" aria-label="project-img">
-                <img class="img-fluid" src="assets/images/project-img/resthouse-demolish.jpg" alt="project-img" />
+              <a class="gallery-popup" href="assets/images/project-img/tower-demolition.jpg" aria-label="project-img">
+                <img class="img-fluid" placeholder='tower domolish' src="assets/images/project-img/tower-demolition.jpg" alt="project-img" />
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
@@ -455,7 +455,7 @@ class Home extends Component {
           <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;education&quot;,&quot;infrastructure&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="assets/images/project-img/iron-collection.jpg" aria-label="project-img">
-                <img class="img-fluid" src="assets/images/project-img/iron-collection.jpg" alt="project-img" />
+                <img class="img-fluid" placeholder='scrap collection' src="assets/images/project-img/iron-collection.jpg" alt="project-img" />
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
@@ -471,8 +471,8 @@ class Home extends Component {
 
           <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="assets/images/project-img/dam-demolish.jpg" aria-label="project-img">
-                <img class="img-fluid" src="assets/images/project-img/dam-demolish.jpg" alt="project-img" />
+              <a class="gallery-popup" href="assets/images/project-img/home-demolish.jpg" aria-label="project-img">
+                <img class="img-fluid" placeholder='hospital demolish' src="assets/images/project-img/home-demolish.jpg" alt="project-img" />
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
@@ -489,7 +489,7 @@ class Home extends Component {
           <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="assets/images/project-img/pump-demolish.jpg" aria-label="project-img">
-                <img class="img-fluid" src="assets/images/project-img/pump-demolish.jpg" alt="project-img" />
+                <img class="img-fluid" placeholder='home demolition' src="assets/images/project-img/pump-demolish.jpg" alt="project-img" />
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
@@ -558,7 +558,7 @@ class Home extends Component {
           <div class="latest-post">
               <div class="latest-post-media">
                 <a href="" class="latest-post-img">
-                    <img loading="lazy" class="img-fluid" src="assets/images/project-img/dam-demolation.jpg" alt="img" />
+                    <img loading="lazy" class="img-fluid" placeholder="pump demolition" src="assets/images/project-img/pump-demolish.jpg" alt="img" />
                 </a>
               </div>
               <div class="post-body">
@@ -578,7 +578,7 @@ class Home extends Component {
           <div class="latest-post">
               <div class="latest-post-media">
                 <a href="" class="latest-post-img">
-                    <img loading="lazy" class="img-fluid" src="assets/images/project-img/resthouse-demolish.jpg" alt="img" />
+                    <img loading="lazy" class="img-fluid" placeholder="demolish villa" src="assets/images/project-img/buildingdemolish.jpg" alt="img" />
                 </a>
               </div>
               <div class="post-body">
@@ -598,7 +598,7 @@ class Home extends Component {
           <div class="latest-post">
               <div class="latest-post-media">
                 <a href="" class="latest-post-img">
-                    <img loading="lazy" class="img-fluid" src="assets/images/project-img/iron-collection.jpg" alt="img" />
+                    <img loading="lazy" class="img-fluid" placeholder="Building demolition" src="assets/images/project-img/shiwal-demolition.jpg" alt="img" />
                 </a>
               </div>
               <div class="post-body">
